@@ -1,4 +1,4 @@
-# npm-EACCES-error
+# npm EACCES: permission denied
 How to fix EACCES errors with NPM
 
 ```
